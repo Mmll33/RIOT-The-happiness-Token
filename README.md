@@ -1,2 +1,2 @@
-# Riosauro
-This is a new community to share happines and joy among families inspired in the happiness of my son Rio and his Dino costume.
+# Rio Token: The Happiness Token (RIOT)
+This is a new community to share happiness and joy among families inspired by the happiness of my son Rio and his Dino costume.
