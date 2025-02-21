@@ -2,5 +2,21 @@
     "name": "RIO Token",
     "symbol": "RIOT",
     "description": "RIOT is the Happiness Token! Inspired by Rio, the happiest little soul, this token is designed to spread joy to everyone who holds it. There’s nothing happier than Rio, and now, his happiness can be shared with the world!",
-    "image": "https://raw.githubusercontent.com/Mmll33/Riosauro-Token/refs/heads/main/RIOT.png "
+    "image": "https://raw.githubusercontent.com/Mmll33/Riosauro-Token/refs/heads/main/RIOT.png ",
+    "rules_url": "https://isarc.es/RIOT",
+    "whitepaper": "https://tuweb.com/RIOT_whitepaper.pdf",
+   
+ 
+    "creators": [
+       {
+       "address": "picx8rt92gNCfbWtKRkuvbfF8ekWv1mESNThCGpP2dg",
+       "verified": true
+      
+       }
+      ],
+     "attributes": [
+     { "trait_type": "Blockchain", "value": "Solana" },
+     { "trait_type": "Tipo", "value": "Utility Token" },
+     { "trait_type": "Supply Máximo", "value": "100,000,000,000 RIOT" }
+     ]
   }
